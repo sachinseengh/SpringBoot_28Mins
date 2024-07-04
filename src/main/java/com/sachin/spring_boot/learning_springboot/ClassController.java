@@ -19,6 +19,7 @@ public class ClassController {
 				new Course(3,"c"," Lamsal"),
 				new Course(4,"python","ranjit"),
 				new Course(5,"react","dip"),
+				
 				new Course(6,"html","niraj")
 				
 				
